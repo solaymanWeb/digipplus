@@ -25,8 +25,8 @@ const Jobs = () => {
                     <div className="col-md-3">
                     
                     </div>
-                    <div className="col-md-3">
-                        <div className="py-5 anous-right-text">
+                    <div className="col-md-3 py-3">
+                        <div className=" anous-right-text">
                             <h5>Annoucments</h5>
                             <p>we are working on adding project and Internship Details. so just fill up porfile only</p>
                         </div>

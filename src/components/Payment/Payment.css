@@ -1,0 +1,12 @@
+.payment{
+    border: 1px solid black;
+    text-align: left;
+    padding: 15px;
+    border-radius: 10px;
+}
+.payment-text {
+    text-align: left;
+}
+.payment-text p{
+   font-weight: bold;
+}
