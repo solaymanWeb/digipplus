@@ -1,0 +1,29 @@
+.annous{
+    display: flex;
+    justify-content: flex-end;
+}
+.annous-text{
+    background-color: #D0ECF0;
+}
+.action-area{
+    text-align: left;
+}
+.action-area h6{
+    color: #D47455;
+}
+.action-area button{
+    box-shadow: rgba(245, 126, 34, 0.35) 0px 5px 15px;
+    color: black;
+    font-weight: bold;
+    margin: 15px 0px;
+}
+.solution{
+    text-align: left;
+    padding: 10px;
+    box-shadow: rgba(245, 126, 34, 0.35) 0px 5px 15px;
+    margin-top: 30px;
+}
+.solution h5{
+    text-align: left;
+    color: #D47455;
+}
