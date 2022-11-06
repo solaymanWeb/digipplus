@@ -1,0 +1,32 @@
+.jobs {
+   text-align: left;
+}
+.jobs p{
+    background-color: #EFF8FF;
+    padding: 15px;
+    font-weight: 600;
+    margin-bottom:20px ;
+
+}
+.jobs button{
+    width: 100%;
+    border: none;
+    padding: 15px;
+    text-align: left;
+    font-weight: 600;
+    display: block;
+    margin-bottom: 20px;
+    color:#a7a7a7;
+}
+.jobs h5{
+ color: #D47455;
+}
+.anous-right-text h5{
+   text-align: right;
+}
+.anous-right-text p{
+    background-color: #EFF8FF;
+    text-align: left;
+    padding: 15px;
+   
+}
